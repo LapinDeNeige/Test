@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<users>
+  <user>
+    <name>Ivan</name>
+    <surname>Ivanovich</surname>
+    <fathersname>Ivanov</fathersname>
+    <phone>+79999999999</phone>
+    <id>0 </id>
+  </user>
+  <user>
+    <name>Alexey</name>
+    <surname>Sidorov</surname>
+    <fathersname>Petrovich</fathersname>
+    <phone>+79999999999</phone>
+    <id>2</id>
+  </user>
+  <user>
+    <name>Konstantin</name>
+    <surname>Petrov</surname>
+    <fathersname>Alexeevich</fathersname>
+    <phone>+79999999999</phone>
+    <id>3</id>
+  </user>
+</users>
